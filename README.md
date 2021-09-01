@@ -5,50 +5,51 @@ Tried to copy Snapcaht UI-UX
 # Some App visuals
  
  ## camera screens
-![alt text](img/1.png)
+ <img src="img/1.png" width=50% height=50%>
 
-![alt text](img/2.png)
 
-![alt text](img/3.png)
+ <img src="img/2.png" width=50% height=50%>
+
+ <img src="img/3.png" width=50% height=50%>
 
  ## chat screens
-![alt text](img/4.png)
+ <img src="img/4.png" width=50% height=50%>
 
-![alt text](img/5.png)
+ <img src="img/5.png" width=50% height=50%>
 
-![alt text](img/6.png)
+ <img src="img/6.png" width=50% height=50%>
 
-![alt text](img/7.png)
+ <img src="img/7.png" width=50% height=50%>
 
-![alt text](img/8.png)
+ <img src="img/8.png" width=50% height=50%>
 
  ## map screens
-![alt text](img/9.png)
+ <img src="img/9.png" width=50% height=50%>
 
-![alt text](img/10.png)
+ <img src="img/10.png" width=50% height=50%>
 
-![alt text](img/11.png)
+ <img src="img/11.png" width=50% height=50%>
 
-![alt text](img/12.png)
+ <img src="img/12.png" width=50% height=50%>
 
-![alt text](img/13.png)
+ <img src="img/13.png" width=50% height=50%>
 
-![alt text](img/14.png)
+ <img src="img/14.png" width=50% height=50%>
 
-![alt text](img/15.png)
+ <img src="img/15.png" width=50% height=50%>
 
-![alt text](img/16.png)
+ <img src="img/16.png" width=50% height=50%>
 
 
  ## stories screens
-![alt text](img/17.png)
+ <img src="img/17.png" width=50% height=50%>
 
-![alt text](img/18.png)
+ <img src="img/18.png" width=50% height=50%>
 
-![alt text](img/19.png)
+ <img src="img/19.png" width=50% height=50%>
 
  ## discover screens
-![alt text](img/20.png)
+ <img src="img/20.png" width=50% height=50%>
 
 
 
